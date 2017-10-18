@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-localization-ios",
+  "version": "1.0.0",
+  "description": "Small plugin that adds localization parameters to the plist file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suffixby/cordova-plugin-localization-ios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suffixby/cordova-plugin-localization-ios/issues"
+  },
+  "homepage": "https://github.com/Suffixby/cordova-plugin-localization-ios#readme"
+}
